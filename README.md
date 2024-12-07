@@ -4,6 +4,9 @@
 ![프로젝트 로고](Logo.png)
 
 이 레포지토리는 카페 애플리케이션의 **백엔드 기능**을 제공합니다. 현재 서버 배포가 진행 중이며, 레포지토리 파일에는 `serviceAccountKey`가 포함되어 있지 않아 Firebase 관련 오류가 발생할 수 있습니다. 직접 실행을 원하시는 경우, 프론트엔드 레포지토리에서 제공하는 APK 파일을 다운로드하여 기능을 체험하실 수 있습니다.
+## 다운로드
+
+[앱 다운로드 (APK)](https://github.com/NIsik419/Open_Cafe_spring/releases/download/asdf/CafeFun.apk)
 
 ### 개발 배경
 
