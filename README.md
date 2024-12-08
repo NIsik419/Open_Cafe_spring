@@ -74,7 +74,7 @@
 
 
 ## 주요 서비스 설명
-[![로그인 화면](Logo.png)](https:/https://youtube.com/shorts/zsfsnO3n-tA)
+[![로그인 화면](Logo.png)](https://youtube.com/shorts/zsfsnO3n-tA)
 
 ### 1. 홈 화면
 - **추천 카페 리스트**
