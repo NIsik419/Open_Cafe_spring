@@ -73,7 +73,7 @@
 ---
 
 
-## 주요 서비스 설명
+## 주요 서비스 설명 사진을 누르면 유튜브로 넘어갑니다
 [![로그인 화면](Logo.png)](https://youtube.com/shorts/zsfsnO3n-tA)
 
 ### 1. 홈 화면
